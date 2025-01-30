@@ -1,0 +1,157 @@
+          <div class="nav-link-wrapper"><a href="/about" class="nav-link w-nav-link">About</a><a href="/about" class="nav-link move-down hide-on-tab w-nav-link">About</a></div>
+          <div class="nav-link-wrapper"><a href="/services" class="nav-link w-nav-link">services</a><a href="/services" class="nav-link move-down hide-on-tab w-nav-link">services</a></div>
+          <div class="nav-link-wrapper"><a href="/blog" class="nav-link w-nav-link">Blog</a><a href="/blog" class="nav-link move-down hide-on-tab w-nav-link">Blog</a></div>
+          <div class="nav-link-wrapper"><a href="/contact" class="nav-link w-nav-link">Contact</a><a href="/contact" class="nav-link move-down hide-on-tab w-nav-link">Contact</a></div>
+        </nav>
+        <div class="menu-button w-nav-button">
+          <div class="burger-icon w-icon-nav-menu"></div>
+        </div>
+      </div>
+    </div>
+    <section class="section">
+      <div class="w-layout-blockcontainer container padding-4-5rem w-container">
+        <div class="space-7rem"></div>
+        <div class="hero-wrapper">
+          <div data-w-id="fde0b76f-a031-ae9a-d039-aadd4b3a4614" style="opacity:0" class="hero-block background-blur">
+            <div data-w-id="55686b65-573b-6b1e-27a8-356f0a4302e2" class="subheading-flex">
+              <div class="icon-wrapper"><img width="Auto" height="Auto" alt="" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8d7_svg_zmEu.svg" loading="eager" class="icon"/></div>
+              <h5>go-to Cleaners</h5>
+            </div>
+            <h1 class="hero-title flip-from-bottom-animation">Expert<br/><span class="italics">Cleaning</span></h1>
+            <p data-w-id="4e4e284a-37f6-9a2d-2fe7-4e431e805bab" style="opacity:0" class="max-width-30rem">Creating cleaner, healthier spaces so you can focus on what matters most and relax on the weekends.</p>
+            <a href="#explore" data-w-id="5636032a-1271-e473-ecbe-20e393bd2447" class="button-with-circle-icon w-inline-block">
+              <p class="button-text">Explore</p>
+              <p class="button-text move-down hide-on-tab">Explore</p>
+              <div class="circle-absolute"></div>
+            </a>
+          </div>
+          <div data-w-id="e9eeb996-e4cd-19c8-a606-d06cc6cb9c04" style="opacity:0" class="hero-image"></div>
+        </div>
+        <div class="space-7rem"></div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="w-layout-blockcontainer container padding-4-5rem w-container">
+        <div id="explore" class="card-flex">
+          <div class="features-image-wrapper flip-from-left-animation">
+            <img sizes="(max-width: 479px) 80vw, (max-width: 767px) 312px, (max-width: 991px) 41vw, 22vw" srcset="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e935_Img-2.webp 500w, https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e935_Img-2.webp 800w, https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e935_Img-2.webp 961w" alt="accent chair" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e935_Img-2.webp" loading="eager" class="features-image"/>
+            <div class="pop-up-card top-right background-blur">
+              <h4>2X</h4>
+              <p>Deep Cleaning</p>
+            </div>
+          </div>
+          <div class="large-card">
+            <div class="card-text-block slide-from-right-animation">
+              <div data-w-id="55686b65-573b-6b1e-27a8-356f0a4302e2" class="subheading-flex">
+                <div class="icon-wrapper"><img width="Auto" height="Auto" alt="" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e90e_svg_HFET.svg" loading="eager" class="icon"/></div>
+                <h5>Fresh</h5>
+              </div>
+              <h2>Home <span class="italics">Refresh.</span></h2>
+              <p class="max-width-30rem">Experience the ultimate expert cleaning — Creating spaces where comfort and productivity thrive.</p>
+              <a href="/services" data-w-id="5636032a-1271-e473-ecbe-20e393bd2447" class="button-with-circle-icon w-inline-block">
+                <p class="button-text">Explore</p>
+                <p class="button-text move-down hide-on-tab">Explore</p>
+                <div class="circle-absolute"></div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="space-7rem"></div>
+        <div class="card-flex reverse-on-tab">
+          <div class="large-card">
+            <div class="card-text-block slide-from-left-animation">
+              <div data-w-id="55686b65-573b-6b1e-27a8-356f0a4302e2" class="subheading-flex">
+                <div class="icon-wrapper"><img width="Auto" height="Auto" alt="" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8dd_svg_viqt.svg" loading="eager" class="icon"/></div>
+                <h5>Regular</h5>
+              </div>
+              <h2>Office <span class="italics">Cleaners.</span></h2>
+              <p class="max-width-30rem">The cleaning team that cares — Experts in creating pristine homes and productive workspaces.</p>
+              <a href="/about" data-w-id="5636032a-1271-e473-ecbe-20e393bd2447" class="button-with-circle-icon w-inline-block">
+                <p class="button-text">Explore</p>
+                <p class="button-text move-down hide-on-tab">Explore</p>
+                <div class="circle-absolute"></div>
+              </a>
+            </div>
+          </div>
+          <div class="features-image-wrapper flip-from-left-animation">
+            <img sizes="(max-width: 479px) 80vw, (max-width: 767px) 312px, (max-width: 991px) 41vw, 22vw" srcset="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e91b_Img-3.webp 500w, https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e91b_Img-3.webp 800w, https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e91b_Img-3.webp 960w" alt="chair" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e91b_Img-3.webp" loading="lazy" class="features-image"/>
+            <div class="pop-up-card top-left background-blur">
+              <h4>24/7</h4>
+              <p>Maintenance</p>
+            </div>
+          </div>
+        </div>
+        <div class="space-7rem"></div>
+      </div>
+    </section>
+    <section class="section background-primary">
+      <div class="wave"></div>
+      <section class="section">
+        <div class="w-layout-blockcontainer container padding-9rem w-container">
+          <div class="space-7rem"></div>
+          <div class="metrics-wrapper">
+            <div data-w-id="b0ba7367-8285-be0a-215f-011a29334bcc" class="metrics-block">
+              <h2 class="metrics-text">5K</h2>
+              <p>Customers</p>
+            </div>
+            <div data-w-id="b0ba7367-8285-be0a-215f-011a29334bd1" class="metrics-block">
+              <h2 class="metrics-text">4.5K</h2>
+              <p>Repeat</p>
+            </div>
+            <div data-w-id="b0ba7367-8285-be0a-215f-011a29334bd6" class="metrics-block">
+              <h2 class="metrics-text">99<sup>%</sup></h2>
+              <p>Satisfaction</p>
+            </div>
+          </div>
+          <div class="space-7rem"></div>
+        </div>
+      </section>
+    </section>
+    <section class="section">
+      <div class="w-layout-blockcontainer container background-primary rounded-corners-bottom w-container">
+        <div id="about" class="about-tab-wrapper slide-up-animation">
+          <div class="about-text-wrapper">
+            <div data-w-id="55686b65-573b-6b1e-27a8-356f0a4302e2" class="subheading-flex">
+              <div class="icon-wrapper"><img width="Auto" height="Auto" alt="" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8d9_svg_C5p7.svg" loading="eager" class="icon"/></div>
+              <h5>Efficient</h5>
+            </div>
+            <h3>Professional Cleaning <br/>For Every Occasion</h3>
+            <p class="about-description">Whether you’re maintaining a pristine workspace, or simply keeping your home in top shape, our services are designed to meet all your needs.</p>
+          </div>
+          <div data-duration-in="400" data-duration-out="200" data-current="Tab 1" data-easing="ease" class="about-tabs w-tabs">
+            <div id="w-node-_310c731f-3f89-2420-992b-cf3f090caa44-090caa36" class="flex-grid w-tab-menu">
+              <a data-w-tab="Tab 1" id="w-node-_310c731f-3f89-2420-992b-cf3f090caa45-090caa36" class="about-wrapper w-inline-block w-tab-link w--current">
+                <div class="about-tab-block">
+                  <div class="about-tab-flex">
+                    <img loading="lazy" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8db_svg_YgBd.svg" alt="icon" class="small-icon"/>
+                    <h5 class="feature-title">Regular Cleaning</h5>
+                  </div>
+                  <div class="feature-paragraph">
+                    <p class="max-width-30rem">For regular maintenance, our services are tailored to keep your living spaces immaculate.</p>
+                  </div>
+                </div>
+              </a>
+              <a data-w-tab="Tab 2" class="about-wrapper w-inline-block w-tab-link">
+                <div class="about-tab-block">
+                  <div class="about-tab-flex">
+                    <img loading="lazy" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8db_svg_YgBd.svg" alt="icon" class="small-icon"/>
+                    <h5 class="feature-title">Deep Cleaning</h5>
+                  </div>
+                  <div class="feature-paragraph">
+                    <p class="max-width-30rem">Consistent cleaning solutions that keep your workspace organized and professional.</p>
+                  </div>
+                </div>
+              </a>
+              <a data-w-tab="Tab 3" class="about-wrapper w-inline-block w-tab-link">
+                <div class="about-tab-block">
+                  <div class="about-tab-flex">
+                    <img loading="lazy" src="https://cdn.prod.website-files.com/679ac3060afd67c0af84e788/679ac3060afd67c0af84e8db_svg_YgBd.svg" alt="icon" class="small-icon"/>
+                    <h5 class="feature-title">Move in-out Cleaning</h5>
+                  </div>
+                  <div class="feature-paragraph">
+                    <p class="max-width-30rem">Helping you transition smoothly into a new space or leave a lasting impression on your old one.</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="about-image-wrapper w-tab-content">
